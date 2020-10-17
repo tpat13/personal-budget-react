@@ -13,7 +13,7 @@ function Menu() {
     itemScope
     itemType="https://schema.org/SiteNavigationElement"
 >
-    <div class="menu">
+    <div className="menu">
         <ul>
             <li><Link itemProp="url" to="/">Home</Link></li>
             <li><Link itemProp="url" to="/about">About</Link></li>
